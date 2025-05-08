@@ -86,12 +86,12 @@ section h1 {
 
 
 .projects {
-    color: white;
-    background: black;
+    color: rgb(122, 117, 117);
+    background: rgb(158, 61, 61);
 }
 
 .github:hover {
-    transform: scale(1.05);
+    transform: scale(2);
     cursor: pointer;
 }
 
@@ -113,5 +113,5 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: rgb(139, 46, 46);
 }
